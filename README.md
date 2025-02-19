@@ -1,7 +1,7 @@
 # ocr4all-docker
 ### Clone repository
 ```
-git clone https://github.com/OCR4all/ocr4all-docker
+git clone https://github.com/OCR4all/ocr4all-libraries-docker
 ```
 ### Set environment variables
 - Copy the `template.env` to a file named `.env` that should be placed in the same directory as the `docker-compose.yml` file
